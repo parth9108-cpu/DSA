@@ -8,3 +8,4 @@ I have just started solving DSA questions and will keep adding more solutions he
 |-----   |---------------------------------|----------------|------------|
 | 1929   | Concatenation of Array          | Arrays         | Easy       |
 | 1480   | Running Sum of 1d Array         | Arrays         | Easy       |
+| 1      | Two Sum                         | Arrays         | Easy       |
