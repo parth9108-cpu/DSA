@@ -10,3 +10,4 @@ I have just started solving DSA questions and will keep adding more solutions he
 | 1480   | Running Sum of 1d Array         | Arrays         | Easy       |
 | 1      | Two Sum                         | Arrays         | Easy       |
 | 1672   | Richest Customer Wealth         | Arrays         | Easy       |
+| 1470   | Shuffle the Array               | Arrays         | Easy       |
